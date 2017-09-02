@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bogdan-kuternoga/gk-test#readme",
   "dependencies": {
-    "@angular/core": "4.3.6"
+    "@angular/core": "4.4.0-RC.0"
   }
 }
